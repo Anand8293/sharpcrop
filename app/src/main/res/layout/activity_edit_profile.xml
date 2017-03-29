@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_edit_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="24dp"
+        android:layout_gravity="center"
+        android:src="@drawable/haircut"
+        android:id="@+id/profile_image">
+    </de.hdodenhof.circleimageview.CircleImageView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/profile_changer"
+            android:text="Change Photo"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"
+            />
+    </LinearLayout>
+         <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:orientation="horizontal"
+                 android:padding="10dp"
+                 android:background="@drawable/border"
+
+                 >
+                 <ImageView
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:id="@+id/fnameimg"
+                     android:background="@drawable/name"
+                     android:layout_gravity="center"
+                     />
+                 <EditText
+                     android:id="@+id/fname"
+                     android:layout_width="match_parent"
+                     android:layout_height="42dp"
+                     android:hint="First Name"
+                     android:textColor="#5525c7"
+                     android:paddingLeft="20dp"
+                     android:background="@android:color/transparent"
+                     />
+             </LinearLayout>
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:orientation="horizontal"
+                 android:padding="10dp"
+                 android:background="@drawable/border"
+
+                 >
+                 <ImageView
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:id="@+id/lnameimg"
+                     android:background="@drawable/name"
+                     android:layout_gravity="center"
+                     />
+                 <EditText
+                     android:id="@+id/lname"
+                     android:layout_width="match_parent"
+                     android:layout_height="42dp"
+                     android:hint="Last Name"
+                     android:textColor="#5525c7"
+                     android:paddingLeft="20dp"
+                     android:background="@android:color/transparent"
+                     />
+             </LinearLayout>
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:orientation="horizontal"
+                 android:padding="10dp"
+                 android:background="@drawable/border">
+                 <ImageView
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:id="@+id/mobileimg"
+                     android:background="@drawable/app_mobile"
+                     android:layout_gravity="center"
+
+                     />
+
+                 <EditText
+                     android:id="@+id/mobile"
+                     android:layout_width="match_parent"
+                     android:layout_height="42dp"
+                     android:hint="Mobile Number"
+                     android:inputType="number"
+                     android:textColor="#5525c7"
+                     android:paddingLeft="20dp"
+                     android:background="@android:color/transparent"
+                     />
+             </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="30dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginRight="5dp"
+            android:gravity="left"
+            android:layout_weight="1"
+            android:background="@color/black">
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Cancel"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:background="@color/black"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            >
+            <Button
+                android:id="@+id/done"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Done"
+                android:gravity="center"
+                android:textColor="@android:color/white"
+                android:background="@color/blue"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+      </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/com_facebook_blue">
+
+    <TextView
+        android:id="@+id/facebooTxt"
+        android:text="@string/facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_below="@+id/facebooTxt"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/white"
+        android:layout_centerHorizontal="true" />
+
+
+
+</RelativeLayout>

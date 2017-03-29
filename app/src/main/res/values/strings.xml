@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">SharpCrop</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addmoney">Add Money</string>
+    <string name="google_api">AIzaSyA6vsG4iTYkOQE2xmT7Ruf9Kzq4M-2cfhw</string>
+    <string name="server_client_id">809706096440-n8u8fr9p3l4i0eu53rmc6e3t5o0j7j5c.apps.googleusercontent.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="navigation_item_1">Home</string>
+    <string name="navigation_item_2">Events</string>
+    <string name="starred_string">Starred</string>
+    <string name="inbox_string">Inbox</string>
+    <string name="sent_mail_string">Sent mail</string>
+    <string name="draft_string">Drafts</string>
+    <string name="subheader">Subheader</string>
+    <string name="trash_string">Trash</string>
+    <string name="all_mail_string">All mails</string>
+    <string name="spam_string">Spams</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="home_string">Home</string>
+    <string name="services_string">Services</string>
+    <string name="payment_string">Payment</string>
+    <string name="notification_string">Notification</string>
+    <string name="offer_cash_back_string">Offer &amp; Cash Back></string>
+    <string name="about_string">About Us</string>
+    <string name="contact_string">Contact Us</string>
+    <string name="logout_string">Logout</string>
+    <string name="ourstory">Our Story</string>
+    <string name="title_activity_contect_us">ContectUs</string>
+    <string name="Address">Address: </string>
+    <string name="callus">Call Us: </string>
+    <string name="email">EMail: </string>
+    <string name="Open">Open: </string>
+    <string name="pracent">4.5 of Star: 500 Reviews</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_appointment">Appointment</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="no_network">No Network Found</string>
+    <string name="pls_wait">Please Wait</string>
+
+    <string name="otp">Enter The OTP Below</string>
+    <string name="submit">SUBMIT</string>
+    <string name="TotalAmount">Total Amount</string>
+    <string name="Apply">Apply</string>
+    <string name="paymentOption">Please Select Payment Option</string>
+    <string name="TabToRate">Tab To Rate</string>
+    <string name="YourRating">Your Rating</string>
+    <string name="YourReviews">Your Review(0/500 Characters)</string>
+    <string name="reviews">Rate &amp; Review</string>
+
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signwithgoogle">Sign In With Google</string>
+    <string name="signwithfacebook">Sign In With Facebook</string>
+    <string name="forgetpassword">Forget Password?</string>
+    <string name="referandearn">Refer And Earn Rs. 50!</string>
+    <string name="gift">Gift A Friend Rs 50 And Earn 50 on First Services</string>
+    <string name="sds">sds4567</string>
+    <string name="shareyourcode">Share Your Code</string>
+    <string name="signup">SIGN UP</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="services">Services</string>
+    <string name="packages">Packages</string>
+    <string name="hair_cut">Hair Cut</string>
+    <string name="facebook_app_id">176134236203670</string>
+    <string name="facebook_app_key">dc48706ecc425a41804c30b14c2a28be</string>
+    <string name="facebook">Facebook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="out_Story">Our Story</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="refered">Refere Friend</string>
+    <string name="action_your_point">Your Points</string>
+    <string name="next">Next</string>
+
+</resources>

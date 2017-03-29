@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#000</color>
+    <color name="submitbutton">#5525c7</color>
+     <color name="black">#000</color>
+    <color name="purple">#7854</color>
+    <color name="gold">#ffbb00</color>
+    <color name="google">#dc4e42</color>
+    <color name="facebook">#3b5999</color>
+    <color name="forgetpassword">#7243e1</color>
+    <color name="gray">#b5b3b4</color>
+    <color name="grayDark">#736b69</color>
+    <color name="blue">#5424c5</color>
+
+</resources>

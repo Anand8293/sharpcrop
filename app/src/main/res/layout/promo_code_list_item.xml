@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+        <TextView
+            android:id="@+id/promo_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Pormo Code"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:gravity="center"
+            />
+            <TextView
+                android:id="@+id/promo_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Pormo Code"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                android:textAppearance="?android:textAppearanceSmall"
+                android:maxLines="2"
+                android:minLines="2"
+                />
+        </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Apply"
+            android:id="@+id/apply"
+            android:background="@color/submitbutton"
+            android:textColor="@color/white"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            />
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_api">AIzaSyA6vsG4iTYkOQE2xmT7Ruf9Kzq4M-2cfhw</string>
+    <string name="server_client_id">809706096440-n8u8fr9p3l4i0eu53rmc6e3t5o0j7j5c.apps.googleusercontent.com</string>
+    <string name="home_string">Home</string>
+    <string name="services_string">Services</string>
+    <string name="payment_string">Payment</string>
+    <string name="notification_string">Notification</string>
+    <string name="offer_cash_back_string">Offer &amp; Cash Back></string>
+    <string name="about_string">About Us</string>
+    <string name="contact_string">Contact Us</string>
+    <string name="logout_string">Logout</string>
+    <string name="no_network">No Network Found</string>
+    <string name="pls_wait">Please Wait</string>
+    <string name="otp">Enter The OTP Below</string>
+    <string name="submit">SUBMIT</string>
+    <string name="TotalAmount">Total Amount</string>
+    <string name="Apply">Apply</string>
+    <string name="paymentOption">Please Select Payment Option</string>
+    <string name="TabToRate">Tab To Rate</string>
+    <string name="YourRating">Your Rating</string>
+    <string name="YourReviews">Your Review(0/500 Characters)</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signwithgoogle">Sign In With Google</string>
+    <string name="signwithfacebook">Sign In With Facebook</string>
+    <string name="forgetpassword">Forget Password?</string>
+    <string name="referandearn">Refer And Earn Rs. 50!</string>
+    <string name="gift">Gift A Friend Rs 50 And
+        Earn 50 on First Services</string>
+    <string name="sds">sds4567</string>
+    <string name="shareyourcode">Share Your Code</string>
+    <string name="signup">SIGN UP</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="services">Services</string>
+    <string name="packages">Packages</string>
+    <string name="hair_cut">Hair Cut</string>
+    <string name="facebook_app_id">176134236203670</string>
+    <string name="facebook">Facebook</string>
+    <string name="out_Story">Our Story</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="refered">Refere Friend</string>
+    <string name="action_your_point">Your Points</string>
+    <string name="next">Next</string>
+
+</resources>

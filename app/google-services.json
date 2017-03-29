@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291000257991",
+    "firebase_url": "https://sharpcrop-d61b0.firebaseio.com",
+    "project_id": "sharpcrop-d61b0",
+    "storage_bucket": "sharpcrop-d61b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291000257991:android:f727ccd7dfefcbf9",
+        "android_client_info": {
+          "package_name": "com.anandroid.randd.sharpcrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291000257991-6h02llk85eue23ocp5nkvq36114qhjdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anandroid.randd.sharpcrop",
+            "certificate_hash": "C8D8C70618C068DA6256017DD96997C83D8EDA00"
+          }
+        },
+        {
+          "client_id": "291000257991-clhlvno1cfttad5e3imdlsuum83l2b28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_jjhngRYwxIUkRB0w4F0JEmKRFitqAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291000257991-clhlvno1cfttad5e3imdlsuum83l2b28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
